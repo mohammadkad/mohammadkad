@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I’m a software engineer and developer passionate about building efficient and innovative solutions. My core expertise lies in Python and JavaScript, with experience in Delphi for legacy systems. I thrive on solving complex problems using algorithms, metaheuristics, and optimization techniques.
+
+Beyond coding, I’m deeply fascinated by machine learning and deep reinforcement learning, exploring how AI can model and enhance decision-making processes. When I’m not optimizing code or training models, I work on my love for astronomy and photography—capturing the beauty of the cosmos and the world through my lens.
+
+[![My Skills](https://skillicons.dev/icons?i=js,py,cs,ts,visualstudio)](https://skillicons.dev)
+
+Check out my projects to see how I blend logic, creativity, and cutting-edge tech! 🚀
+
 <!--
 **mohammadkad/mohammadkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
