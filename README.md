@@ -4,7 +4,7 @@ I’m a software engineer and developer passionate about building efficient and 
 
 Beyond coding, I’m deeply fascinated by machine learning and deep reinforcement learning, exploring how AI can model and enhance decision-making processes. When I’m not optimizing code or training models, I work on my love for astronomy and photography—capturing the beauty of the cosmos and the world through my lens.
 
-[![My Skills](https://skillicons.dev/icons?i=py,sklearn,pytorch,js,dotnet,cs,ts,visualstudio,vscode,docker,git,github )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,pytorch,js,dotnet,cs,ts,visualstudio,vscode,docker,git,github&theme=light)](https://skillicons.dev)
 
 Check out my projects to see how I blend logic, creativity, and cutting-edge tech! 🚀
 
