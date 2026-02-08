@@ -6,7 +6,7 @@ Beyond coding, I’m deeply fascinated by machine learning and deep reinforcemen
 
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,pytorch,js,dotnet,cs,ts,visualstudio,vscode,docker,git,github,raspberrypi,linux,ubuntu&theme=light)](https://skillicons.dev)
 
-Check out my projects to see how I blend logic, creativity, and cutting-edge tech! 🚀
+I blend logic, creativity, and cutting-edge tech! 🚀
 
 <!--
 **mohammadkad/mohammadkad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
